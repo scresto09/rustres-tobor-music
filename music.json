@@ -1,0 +1,59 @@
+{
+  "tracks": [
+    {
+      "file": "Nueve_Millas_-_Ayer_sonie_con_Rastafari_instrumental.ogg",
+      "title": "Ayer soñé con Rastafari",
+      "artist": "Nueve Millas",
+      "license": "Public domain (Creative Commons Public Domain)",
+      "source": "archive.org/details/Nueve_Millas_reggae_instrumental",
+      "size": 2675908,
+      "sha256": "ea8115dcf9b3ad36e5d0f8f803502710cb59ee1eccd9a7af407283d946c754bd"
+    },
+    {
+      "file": "Nueve_Millas_-_El_dolor_no_pasara_instrumental.ogg",
+      "title": "El dolor no pasará",
+      "artist": "Nueve Millas",
+      "license": "Public domain (Creative Commons Public Domain)",
+      "source": "archive.org/details/Nueve_Millas_reggae_instrumental",
+      "size": 1964957,
+      "sha256": "0bc4957d76e4bd0d21b89e981662dc7d03293f55d1c33dfd72a4772270cb8355"
+    },
+    {
+      "file": "Nueve_Millas_-_El_secreto_del_roots_instrumental.ogg",
+      "title": "El secreto del roots",
+      "artist": "Nueve Millas",
+      "license": "Public domain (Creative Commons Public Domain)",
+      "source": "archive.org/details/Nueve_Millas_reggae_instrumental",
+      "size": 3314298,
+      "sha256": "eb07dbe19c7536b4472bfefc12be0869146b2aa319a4c486f812e28f5c1801f9"
+    },
+    {
+      "file": "Nueve_Millas_-_Finding_da_place_instrumental.ogg",
+      "title": "Finding da place",
+      "artist": "Nueve Millas",
+      "license": "Public domain (Creative Commons Public Domain)",
+      "source": "archive.org/details/Nueve_Millas_reggae_instrumental",
+      "size": 2740190,
+      "sha256": "bd05673fc265ff044c8e3c861eea2ecb646f9f612020027f762f22ae7d270a7f"
+    },
+    {
+      "file": "Nueve_Millas_-_Gladiador_instrumental.ogg",
+      "title": "Gladiador",
+      "artist": "Nueve Millas",
+      "license": "Public domain (Creative Commons Public Domain)",
+      "source": "archive.org/details/Nueve_Millas_reggae_instrumental",
+      "size": 2523967,
+      "sha256": "da75c8ec887ca0d7248430ed3da65e1b949fa44c0d0a60427b4630a21568b94c"
+    },
+    {
+      "file": "Nueve_Millas_-_Poder_natural_instrumental.ogg",
+      "title": "Poder natural",
+      "artist": "Nueve Millas",
+      "license": "Public domain (Creative Commons Public Domain)",
+      "source": "archive.org/details/Nueve_Millas_reggae_instrumental",
+      "size": 2445912,
+      "sha256": "44d93b82cd7930233b7effb6ee782c37492da13f307ee838ba84158cc38d8e4b"
+    }
+  ],
+  "version": 1
+}
